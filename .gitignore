@@ -25,3 +25,11 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#sqlite
+*.sqlite
+
+#vim
+*.swp
+
+
